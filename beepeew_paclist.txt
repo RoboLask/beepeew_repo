@@ -1,5 +1,5 @@
 ```
-[имя_пакета]
+[helloworld]
 description = Hello World
 version     = 1.0
 platform    = any
