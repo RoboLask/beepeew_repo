@@ -6,3 +6,12 @@ type        = python
 filename    = helloworld.py
 depends     =
 url         = https://raw.githubusercontent.com/RoboLask/beepeew_repo/main/packet/helloworld/helloworld.py
+
+[ukraine_sim]
+description = Ukraine Simulator
+version     = 0.0.5
+platform    = any
+type        = python
+filename    = ukr0.0.5.py
+depends     =
+url         = https://raw.githubusercontent.com/RoboLask/beepeew_repo/main/packet/ukraine_simulator_0.0.5/ukr0.0.5.py
