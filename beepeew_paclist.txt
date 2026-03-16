@@ -15,3 +15,12 @@ type        = python
 filename    = ukraine_sim.py
 depends     =
 url         = https://raw.githubusercontent.com/RoboLask/beepeew_repo/main/packet/ukraine_sim/ukraine_sim.py
+
+[catmeoww]
+description = Cat image browser
+version     = 1.0
+platform    = any
+type        = python
+filename    = catmeoww.py
+depends     = pygame,Pillow
+url         = https://raw.githubusercontent.com/RoboLask/beepeew_repo/main/packet/catmeoww/catmeoww.py
