@@ -1,1 +1,11 @@
+```
+[имя_пакета]
+description = Hello World
+version     = 1.0
+platform    = any
+type        = python
+filename    = helloworld.py
+depends     = 
+url         = https://github.com/RoboLask/beepeew_repo/blob/main/packet/helloworld/helloworld.py
+```
 
