@@ -1,9 +1,1 @@
-[helloworld]
-description = Hello World
-version     = 1.0
-platform    = any
-type        = python
-filename    = helloworld.py
-depends     = 
-url = https://raw.githubusercontent.com/RoboLask/beepeew_repo/main/packet/helloworld/helloworld.py
 
