@@ -24,3 +24,13 @@ type        = python
 filename    = catmeoww.py
 depends     = pygame,Pillow
 url         = https://raw.githubusercontent.com/RoboLask/beepeew_repo/main/packet/catmeoww/catmeoww.py
+
+[poezio]
+description = Console XMPP client
+version     = 0.18
+platform    = linux
+type        = python
+filename    = poezio.py
+depends     = poezio
+url         = https://raw.githubusercontent.com/RoboLask/beepeew_repo/main/packet/poezio/poezio.py
+
